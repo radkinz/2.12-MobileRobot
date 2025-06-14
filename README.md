@@ -110,12 +110,12 @@ This project demanded rapid iteration across electrical, mechanical, and softwar
 
 <p align="center">
   <img src="assets/comp.jpg" width="350"/><br>
-  <em>Me running the robot's software during competition with my team.</em>
+  <em>Running the robot's software alongside my teammates during competition.</em>
 </p>
 
 <br>
 
 <p align="center">
   <img src="assets/prez.jpg" width="350"/><br>
-  <em>Me presenting our design during a design review in class with my favorite stuffed animal.</em>
+  <em>Presenting the team's design during a design review in class with my favorite stuffed animal.</em>
 </p>
